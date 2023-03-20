@@ -7,28 +7,28 @@ export class EmployeeService {
  getEmployees() {
     return [
       {
-        id: 101,
-        firstname: 'Freddie',
-        lastname: 'Baker',
-        email: 'fbaker@gmail.com',
+        ID: 101,
+        FirstName: 'Freddie',
+        LastName: 'Baker',
+        Email: 'fbaker@gmail.com',
       },
       {
-        id: 102,
-        firstname: 'Donna',
-        lastname: 'Autumn',
-        email: 'dautumn@yahoo.com',
+        ID: 102,
+        FirstName: 'Donna',
+        LastName: 'Autumn',
+        Email: 'dautumn@yahoo.com',
       },
       {
-        id: 103,
-        firstname: 'Johnny',
-        lastname: 'Bravo',
-        email: 'jbravo@gmail.com',
+        ID: 103,
+        FirstName: 'Johnny',
+        LastName: 'Bravo',
+        Email: 'jbravo@gmail.com',
       },
       {
-        id: 104,
-        firstname: 'Zac',
-        lastname: 'Carreon',
-        email: 'zac.carreon02@gmail.com',
+        ID: 104,
+        FirstName: 'Zac',
+        LastName: 'Carreon',
+        Email: 'zac.carreon02@gmail.com',
       },
     ];
   }
